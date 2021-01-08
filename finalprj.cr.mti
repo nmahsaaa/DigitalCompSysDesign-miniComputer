@@ -1,0 +1,50 @@
+C:/Users/user/Desktop/cla.v {1 {vlog -work work -vopt -stats=none C:/Users/user/Desktop/cla.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module CLA_Adder
+
+Top level modules:
+	CLA_Adder
+
+} {} {}} C:/Users/user/Desktop/division.v {1 {vlog -work work -vopt -stats=none C:/Users/user/Desktop/division.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module div
+
+Top level modules:
+	div
+
+} {} {}} C:/Users/user/Desktop/mult.v {1 {vlog -work work -vopt -stats=none C:/Users/user/Desktop/mult.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mult
+
+Top level modules:
+	mult
+
+} {} {}} C:/Users/user/Desktop/ALU.v {1 {vlog -work work -vopt -stats=none C:/Users/user/Desktop/ALU.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MyALU
+
+Top level modules:
+	MyALU
+
+} {} {}} C:/Users/user/Desktop/sub.v {1 {vlog -work work -vopt -stats=none C:/Users/user/Desktop/sub.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module sub
+
+Top level modules:
+	sub
+
+} {} {}} C:/modeltech64_10.4/examples/ClaTest.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.4/examples/ClaTest.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module clatst
+
+Top level modules:
+	clatst
+
+} {} {}} C:/modeltech64_10.4/examples/Alu_test.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.4/examples/Alu_test.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module alutst
+
+Top level modules:
+	alutst
+
+} {} {}}

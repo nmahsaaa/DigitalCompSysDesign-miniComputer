@@ -1,0 +1,178 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.4/examples
+T_opt
+!s110 1516292077
+V^9bRQzN2lhJ8HJd:9SODj3
+04 5 4 work MyALU fast 0
+=1-34e6ad214d23-5a60c7ed-e3-14d8
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+Z1 OL;O;10.4;61
+R0
+T_opt1
+!s110 1516292755
+V<>=B5]>GP<5JK;7;TJeFD2
+04 3 4 work div fast 0
+=1-34e6ad214d23-5a60ca93-21-1188
+Z2 o-quiet -auto_acc_if_foreign -work work
+n@_opt1
+R1
+R0
+T_opt2
+!s110 1516293772
+V[VCf;6TR9;2FA>F<I6V_:1
+04 4 4 work mult fast 0
+=1-34e6ad214d23-5a60ce8c-2c2-1814
+R2
+n@_opt2
+R1
+valutst
+Z3 !s110 1516282043
+!i10b 1
+!s100 <b:HNiV>FhQ7cMGQQm<A91
+INT?K:Pnn;_KE]C[ac[Jf[0
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 dC:/Users/user/Desktop
+w1516279727
+8C:/modeltech64_10.4/examples/Alu_test.v
+FC:/modeltech64_10.4/examples/Alu_test.v
+L0 2
+Z6 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1516282043.268000
+!s107 C:/modeltech64_10.4/examples/Alu_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.4/examples/Alu_test.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vCLA_Adder
+!s110 1516282108
+!i10b 1
+!s100 H2cfT=^7<fX`V382e<6ID0
+I]SSQN^6Bg6N876<4Jl;Ko0
+R4
+R5
+w1516282106
+8C:/Users/user/Desktop/cla.v
+FC:/Users/user/Desktop/cla.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1516282108.444000
+!s107 C:/Users/user/Desktop/cla.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/user/Desktop/cla.v|
+!i113 0
+R7
+n@c@l@a_@adder
+vclatst
+R3
+!i10b 1
+!s100 _bYY4GJj0ThH?Sh^5aa660
+Ic`nm7308i2R57^OYcIKSz2
+R4
+R5
+w1516281354
+8C:/modeltech64_10.4/examples/ClaTest.v
+FC:/modeltech64_10.4/examples/ClaTest.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1516282043.065000
+!s107 C:/modeltech64_10.4/examples/ClaTest.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.4/examples/ClaTest.v|
+!i113 0
+R7
+vdiv
+!s110 1516292701
+!i10b 1
+!s100 3G]>k=OiN5MzVX?3GoY^T3
+I]_XHIL1efhfc=lIQ95JbH3
+R4
+R5
+w1516292697
+8C:/Users/user/Desktop/division.v
+FC:/Users/user/Desktop/division.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1516292701.036000
+!s107 C:/Users/user/Desktop/division.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/user/Desktop/division.v|
+!i113 0
+R7
+vmult
+!s110 1516293615
+!i10b 1
+!s100 25<L6K_1Pno:F9mJ2H`^k0
+I>eAe038kOahPcd<NJoZSB2
+R4
+R5
+w1516292770
+8C:/Users/user/Desktop/mult.v
+FC:/Users/user/Desktop/mult.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1516293615.011000
+!s107 C:/Users/user/Desktop/mult.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/user/Desktop/mult.v|
+!i113 0
+R7
+vMyALU
+!s110 1516292357
+!i10b 1
+!s100 iP:WBKNLo;DT88=[0Oi[b1
+IJ_lg;XXj>deQbWbTEL=hn3
+R4
+R5
+w1516292354
+8C:/Users/user/Desktop/ALU.v
+FC:/Users/user/Desktop/ALU.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1516292357.806000
+!s107 C:/Users/user/Desktop/ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/user/Desktop/ALU.v|
+!i113 0
+R7
+n@my@a@l@u
+vsub
+!s110 1516285750
+!i10b 1
+!s100 a2EKKJe8<@jT@k:^V_=6a0
+ImSSNi0QRnQ>WJjf5<lI@G2
+R4
+R5
+w1516285749
+8C:/Users/user/Desktop/sub.v
+FC:/Users/user/Desktop/sub.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1516285750.860000
+!s107 C:/Users/user/Desktop/sub.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/user/Desktop/sub.v|
+!i113 0
+R7
